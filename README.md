@@ -1,5 +1,6 @@
 ## Fake store app
 This is a [Next.js](https://nextjs.org/) project that simulates an online store It was made with the [Fake Store API](https://fakestoreapi.com/).
+
 The home page looks like this:
 
 <img src="https://github.com/Carmen-Rosas/fake-store-app/blob/master/public/img/inicio.gif" width="500">
