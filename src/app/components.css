@@ -50,6 +50,9 @@
     background-color: rgb(255, 255, 255);
     max-width: 90vw;
     overflow-x: auto;
+    overflow-y: scroll;
+    height: 60vh;
+    scroll-behavior: smooth;
 }
 
 .dropdown:hover .dropdown-content {
